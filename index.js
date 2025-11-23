@@ -11,3 +11,6 @@ app.listen(port, () => {
     chalk.bgGreen(chalk.black(`Server is running http://localhost:${port} `))
   );
 });
+
+// http://localhost:3000/
+// ec2-16-170-249-59.eu-north-1.compute.amazonaws.com/
